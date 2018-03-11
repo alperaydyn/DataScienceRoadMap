@@ -1,7 +1,7 @@
 # DataScience
 
 ## Titles
-1. Statistics
+1. <a href='Statistics/readme.md'>Statistics</a>
 2. Programming
 3. Modeling
 4. Behaviour
