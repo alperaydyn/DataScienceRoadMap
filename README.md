@@ -1,12 +1,12 @@
 # DataScience
 
 ## Titles
-1. <a href='Statistics/readme.md'>Statistics</a>
-2. Programming
-3. Modeling
-4. Behaviour
-5. Cluture
-6. Problem Solving
+1. [Statistics](/Statistics/Readme.md)
+2. [Programming](/Programming/Readme.md)
+3. [Modeling](/Modeling/Readme.md)
+4. [Behaviour](/Behaviour/Readme.md)
+5. [Cluture](/Culture/Readme.md)
+6. [Problem Solving](/ProblemSolvings/Readme.md)
 
 
 
